@@ -43,8 +43,7 @@ function renderTasks(list) {
     label.className = 'todo-label';
     label.textContent = task.text;
     if (task.done) {
-      label.style.color = 'var(--accent)';
-      label.style.textDecoration = 'line-through';
+      label.classList.add('done');
     }
     // Delete button (x icon)
     const delBtn = document.createElement('button');
