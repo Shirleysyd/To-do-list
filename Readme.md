@@ -27,7 +27,7 @@ A modern, user-friendly TODO list application that helps you manage your tasks e
 Before you begin, ensure you have access to:
 
 - [Cursor](https://www.cursor.so) (AI code assistant)
-- Figma
+- [Figma](https://www.figma.com/downloads/)
 - [Todo List Design file ](https://www.figma.com/community/file/1505921077843710402/todo-list) from Figma
 - [GitHub](https://github.com/)
 - [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) from GitHub
