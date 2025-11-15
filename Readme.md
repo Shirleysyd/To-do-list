@@ -1,6 +1,10 @@
+# To Do List
+
 # TODO List Application
 
 A modern, user-friendly TODO list application that helps you manage your tasks efficiently.
+
+![TODO List Demo](./Todolist.gif)
 
 ---
 
